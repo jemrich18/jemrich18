@@ -1,34 +1,30 @@
-# Jeremiah Emrich — Python & AI Developer
+# Jeremiah Emrich — Backend Developer (Python / Django)
 
-Self-taught Python developer with 11 deployed applications built in 12 months — including production AI/LLM apps, a live client booking platform, and full-stack Django projects.
+Self-taught backend developer with 11 deployed applications — including a live client booking platform, full-stack Django systems, and production AI/LLM tooling.
 
 ## 🚀 What I Build
+
+- **Backend Web Apps** — Django, Django REST Framework, PostgreSQL, real-time systems (Channels/WebSockets/Redis)
+- **Full-Stack Delivery** — React, TypeScript, deployed end-to-end on Railway
 - **AI/LLM Applications** — RAG pipelines, LangGraph agents, OpenAI API, ChromaDB
-- **Full-Stack Web Apps** — Django, Django REST Framework, React, PostgreSQL
-- **Data Analysis** — Pandas, Plotly, Streamlit, Scikit-learn
 
 ## 🔥 Featured Projects
+
 | Project | Description | Stack |
 |---|---|---|
+| [Work Order Tracker](#) *(in progress)* | Real-time work order tracking with live status updates | Django · Channels · WebSockets · Redis · PostgreSQL |
+| [OurCushion](https://ourchushion.com) *(in progress)* | Shared household expense tracker with real-time sync — no reload, updates instantly across users via WebSockets | Django · Channels · WebSockets · PostgreSQL |
+| [erintheestie.com](https://erintheestie.com) | Live client booking platform with custom approval workflow | Django · PostgreSQL · Railway |
+| [golfbros.org](https://golfbros.org) | Golf scoring app, moving toward live multiplayer via WebSockets | Django · PostgreSQL |
+| [trackmyhandi.com](https://trackmyhandi.com) | Golf handicap tracker with weather logging | Django · Open-Meteo API |
 | [fitformyrole.com](https://fitformyrole.com) | AI job match scorer + cover letter generator | Django · LangChain · RAG · OpenAI |
-| [aihuntingchat.com](https://aihuntingchat.com) | LangGraph agent with multi-domain query routing | Django · LangGraph · OpenAI |
-| [erintheestie.com](https://erintheestie.com) | Live client booking platform | Django · PostgreSQL · Railway |
-| [theweatherrack.com](https://theweatherrack.com) | Weather scoring app for hunters | Django · Open-Meteo API |
-| [FAA Dashboard](https://faa-aviation-dashboard-ceua43sscr4dsjxyvisprs.streamlit.app/) | 39k+ aviation incident analysis | Python · Pandas · Plotly |
+| [aihuntingchat.com](#) | LangGraph agent with multi-domain query routing | Django · LangGraph · OpenAI |
+| FAA Dashboard | 39k+ aviation incident analysis | Python · Pandas · Plotly |
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+`Python` `Django` `Django REST Framework` `PostgreSQL` `React` `JavaScript` `TypeScript` `Redis` `Docker` `Railway`
 
 ## 📫 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-jemrich.dev-blue)](https://jemrich.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremiah_Emrich-0077B5?logo=linkedin)](https://linkedin.com/in/jeremiah-e-064bb0391)
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://www.jemrich.dev/static/portfolio_app/files/resume.pdf)
 
----
-*Available for remote work · CS Student @ University of Maryland Global Campus · FAA Certified A&P Mechanic*
+Portfolio: jemrich.dev · LinkedIn: Jeremiah Emrich · [Resume](#)

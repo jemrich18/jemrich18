@@ -1,30 +1,26 @@
-# Jeremiah Emrich — Backend Developer (Python / Django)
+# Jeremiah Emrich — Software Engineer (Python / Django)
 
-Self-taught backend developer with 11 deployed applications — including a live client booking platform, full-stack Django systems, and production AI/LLM tooling.
+Backend-focused software engineer building REST APIs, real-time systems, and applied AI tooling — from schema design through deployment. Completing a B.S. in Computer Science.
 
 ## 🚀 What I Build
 
 - **Backend Web Apps** — Django, Django REST Framework, PostgreSQL, real-time systems (Channels/WebSockets/Redis)
 - **Full-Stack Delivery** — React, TypeScript, deployed end-to-end on Railway
-- **AI/LLM Applications** — RAG pipelines, LangGraph agents, OpenAI API, ChromaDB
+- **Applied AI** — RAG pipelines (OpenAI API + ChromaDB vector search), LLM-grounded generation
 
 ## 🔥 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Work Order Tracker](#) *(in progress)* | Real-time work order tracking with live status updates | Django · Channels · WebSockets · Redis · PostgreSQL |
-| [OurCushion](https://ourchushion.com) *(in progress)* | Shared household expense tracker with real-time sync — no reload, updates instantly across users via WebSockets | Django · Channels · WebSockets · PostgreSQL |
-| [erintheestie.com](https://erintheestie.com) | Live client booking platform with custom approval workflow | Django · PostgreSQL · Railway |
-| [golfbros.org](https://golfbros.org) | Golf scoring app, moving toward live multiplayer via WebSockets | Django · PostgreSQL |
-| [trackmyhandi.com](https://trackmyhandi.com) | Golf handicap tracker with weather logging | Django · Open-Meteo API |
-| [fitformyrole.com](https://fitformyrole.com) | AI job match scorer + cover letter generator | Django · LangChain · RAG · OpenAI |
-| [aihuntingchat.com](#) | LangGraph agent with multi-domain query routing | Django · LangGraph · OpenAI |
-| FAA Dashboard | 39k+ aviation incident analysis | Python · Pandas · Plotly |
+| [erintheestie.com](https://erintheestie.com) | Live client booking platform — custom approval workflow routes the right notification back to the customer automatically | Django · PostgreSQL · Railway |
+| [fitformyrole.com](https://fitformyrole.com) | RAG-based resume/job matcher — chunks and embeds resumes, retrieves relevant content by vector similarity to ground AI-generated match scoring and cover letters | Django · DRF · OpenAI API · ChromaDB |
+| [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends and Stripe-billed premium tier | Django REST Framework · React · TypeScript · Stripe |
+| [OurCushion](https://ourcushion.com) | Real-time shared household finance tracker — balance updates push instantly between users via WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
 
 ## 🛠️ Tech Stack
 
-`Python` `Django` `Django REST Framework` `PostgreSQL` `React` `JavaScript` `TypeScript` `Redis` `Docker` `Railway`
+`Python` `Django` `Django REST Framework` `PostgreSQL` `React` `TypeScript` `JavaScript` `Redis` `Docker` `Railway` `OpenAI API` `ChromaDB`
 
 ## 📫 Let's Connect
 
-Portfolio: jemrich.dev · LinkedIn: Jeremiah Emrich · [Resume](#)
+Portfolio: [jemrich.dev](https://jemrich.dev) · [LinkedIn](https://linkedin.com/in/jeremiah-emrich-064bb0391)

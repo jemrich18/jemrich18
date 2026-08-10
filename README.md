@@ -14,8 +14,8 @@ Backend-focused software engineer building REST APIs, real-time systems, and app
 |---|---|---|
 | [erintheestie.com](https://erintheestie.com) | Live client booking platform — custom approval workflow routes the right notification back to the customer automatically | Django · PostgreSQL · Railway |
 | [fitformyrole.com](https://fitformyrole.com) | RAG-based resume/job matcher — chunks and embeds resumes, retrieves relevant content by vector similarity to ground AI-generated match scoring and cover letters | Django · DRF · OpenAI API · ChromaDB |
-| [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends and Stripe-billed premium tier | Django REST Framework · React · TypeScript · Stripe |
-| [OurCushion](https://ourcushion.com) | Real-time shared household finance tracker — balance updates push instantly between users via WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
+| [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends; Stripe integration built for a planned premium tier | Django REST Framework · React · TypeScript · Stripe |
+| [OurCushion](https://ourcushion.com) | Real-time shared household finance tracker with self-service registration — balance updates push instantly between users via WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
 
 ## 🛠️ Tech Stack
 

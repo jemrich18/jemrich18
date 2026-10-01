@@ -15,7 +15,7 @@ Data analyst with nearly 8 years in FAA-regulated aircraft manufacturing, turnin
 | [Kansas Property Tax Analysis](https://github.com/jemrich18/REPLACE_WITH_REPO_NAME) | Traced Kansas property tax growth to rising valuations (36%, 2020–2025), not mill levy rates, and benchmarked Wichita against 4 regional metros — built from unstructured government PDFs (KDOR tables, Lincoln Institute study) | Python · Pandas · SQL · Power BI · pdfplumber |
 | [NTSB Aviation Accident Analysis Dashboard](https://faa-aviation-dashboard-ceua43sscr4dsjxyvisprs.streamlit.app/) | Interactive analysis of 39,560 NTSB aviation incident records — found poor-visibility (IMC) conditions carry a ~58% fatality rate vs. ~15% in clear conditions (VMC), via MySQL views feeding Power BI | Python · Pandas · Streamlit · Plotly · MySQL · Power BI |
 
-→ See all projects at [jemrich.dev/data](https://jemrich.dev/data)
+→ See all projects at [jemrich.dev/projects](https://jemrich.dev/projects)
 
 ## 🛠️ Backend & Applied AI
 
@@ -29,7 +29,7 @@ Also build and deploy full-stack Django applications and AI tooling:
 | [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends | Django REST Framework · React · TypeScript · Stripe |
 | [ourcushion.com](https://ourcushion.com) | Real-time shared household finance tracker over WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
 
-→ See all projects at [jemrich.dev/engineering](https://jemrich.dev/engineering)
+→ See all projects at [jemrich.dev/projects](https://jemrich.dev/projects)
 
 ## 🛠️ Full Tech Stack
 

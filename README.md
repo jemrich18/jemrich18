@@ -1,29 +1,39 @@
-# Jeremiah Emrich — Backend Software Engineer (Python / Django)
+# Jeremiah Emrich — Data Analyst | Python, SQL, Power BI
 
-Backend-focused software engineer building REST APIs, real-time systems, and applied AI tooling — from schema design through deployment. 10 live production apps. Completing a B.S. in Computer Science.
+Data analyst with nearly 8 years in FAA-regulated aircraft manufacturing, turning raw and messy data — including unstructured government PDFs — into decision-ready analysis. Also builds full-stack backend and applied-AI tools (Django, RAG, LangGraph). Completing a B.S. in Computer Science.
 
-## 🚀 What I Build
+## 📊 Data & Analytics
 
-- **Backend Web Apps** — Django, Django REST Framework, PostgreSQL, real-time systems (Channels/WebSockets/Redis)
-- **Full-Stack Delivery** — React, TypeScript, deployed end-to-end on Railway
-- **Applied AI** — RAG pipelines (OpenAI API + ChromaDB vector search), LangGraph tool-calling agents
+- **SQL & Databases** — MySQL, PostgreSQL, SQLite, T-SQL, window functions, CTEs, views
+- **Visualization & Reporting** — Power BI, Excel, Streamlit, Plotly
+- **Pipelines** — Python, Pandas, pdfplumber (unstructured PDF extraction), data cleaning, KPI reporting
 
-## 🔥 Featured Projects
+## 🔥 Featured Data Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [erintheestie.com](https://erintheestie.com) | Live client booking platform — custom approval workflow routes the right notification back to the customer automatically | Django · PostgreSQL · Railway |
-| [FAA Aviation Incident Dashboard](https://faa-aviation-dashboard-ceua43sscr4dsjxyvisprs.streamlit.app/) | Interactive analysis of 39,000+ NTSB aviation incident records — built with the domain expertise of an FAA-certified Airframe Mechanic | Python · Pandas · Streamlit · Plotly |
-| [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends; Stripe integration built for a planned premium tier | Django REST Framework · React · TypeScript · Stripe |
-| [ourcushion.com](https://ourcushion.com) | Real-time shared household finance tracker — balance updates push instantly between users via WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
-| [aihuntingchat.com](https://www.aihuntingchat.com) | LangGraph tool-routing AI agent — selects the right tool (weather, calculation, knowledge base) per request with conversation memory across turns | LangGraph · LangChain · OpenAI · DRF |
+| [Kansas Property Tax Analysis](https://github.com/jemrich18/REPLACE_WITH_REPO_NAME) | Traced Kansas property tax growth to rising valuations (36%, 2020–2025), not mill levy rates, and benchmarked Wichita against 4 regional metros — built from unstructured government PDFs (KDOR tables, Lincoln Institute study) | Python · Pandas · SQL · Power BI · pdfplumber |
+| [NTSB Aviation Accident Analysis Dashboard](https://faa-aviation-dashboard-ceua43sscr4dsjxyvisprs.streamlit.app/) | Interactive analysis of 39,560 NTSB aviation incident records — found poor-visibility (IMC) conditions carry a ~58% fatality rate vs. ~15% in clear conditions (VMC), via MySQL views feeding Power BI | Python · Pandas · Streamlit · Plotly · MySQL · Power BI |
+
+→ See all projects at [jemrich.dev/data](https://jemrich.dev/data)
+
+## 🛠️ Backend & Applied AI
+
+Also build and deploy full-stack Django applications and AI tooling:
+
+| Project | Description | Stack |
+|---|---|---|
+| [erintheestie.com](https://erintheestie.com) | Live booking platform with an approval workflow that routes the correct email notification automatically | Django · PostgreSQL · Railway |
 | [fitformyrole.com](https://fitformyrole.com) | RAG-based resume/job matcher — chunks and embeds resumes, retrieves relevant content by vector similarity to ground AI-generated match scoring and cover letters | Django · DRF · OpenAI API · ChromaDB |
+| [aihuntingchat.com](https://www.aihuntingchat.com) | LangGraph tool-routing AI agent with conversation memory across turns | LangGraph · LangChain · OpenAI · DRF |
+| [trackmyhandi.com](https://trackmyhandi.com) | WHS golf handicap tracker with condition-based performance trends | Django REST Framework · React · TypeScript · Stripe |
+| [ourcushion.com](https://ourcushion.com) | Real-time shared household finance tracker over WebSockets, with graceful degradation if the connection drops | Django · Channels · WebSockets · Redis · PostgreSQL |
 
-→ See all 10 live projects at [jemrich.dev/projects](https://jemrich.dev/projects)
+→ See all projects at [jemrich.dev/engineering](https://jemrich.dev/engineering)
 
-## 🛠️ Tech Stack
+## 🛠️ Full Tech Stack
 
-Python · Django · Django REST Framework · Django Channels · PostgreSQL · Redis · React · TypeScript · JavaScript · Docker · Railway · GitHub Actions · OpenAI API · LangGraph · LangChain · ChromaDB
+Python · SQL (MySQL, PostgreSQL, SQLite, T-SQL) · Power BI · Excel · Pandas · Django · Django REST Framework · Django Channels · React · TypeScript · Docker · Railway · GitHub Actions · OpenAI API · LangGraph · LangChain · ChromaDB
 
 ## 📫 Let's Connect
 
